@@ -2,11 +2,15 @@ div.HeaderClass{
     text-align:center;
 }
 
-
-
-
-
-
+.content p{
+    font-size:30px;
+    text-align:center;
+}
+ 
+.content li{
+    font-size:20px;
+    margin:20px;
+}
 
 h1{
     font-size: 50px;
